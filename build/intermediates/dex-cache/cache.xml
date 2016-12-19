@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_733353aad4181ccb15c971f85601ce338bb534f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0b270bf9486589fbd116b08a92d7f2beac2ba2ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_63ac89dec65cb4f876cf4006002bf59e2df278b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_80de3b8640cd0fe16d39ff17fcd5b44373e70136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fe891eba392adfbe3712e1911953c295f16652a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f0a6e7a3c356c205665ee76dd4531b41cdb53ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_f3f8af79ad6bf156866833698e3d7b25baf66dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_46206ee0d3aa79122df51dd73a9e2b0773c7cee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_54bf76326d073044b82504d216a8afea23292ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ad2d000d830084c01540c773eccc45a48f814fc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_7fd1af8148e4cd4a0f20dd89cd364685c65b7836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3545086134ee6ca86ae74493aeffbad28e72fe62">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e4f207e77d9f98c995f5942961959534c75f70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da1f60f81e8cda462a57b07f9194766dafbcecc0">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f450d6b873fd7e24ff68e0d36f8f4fdda16946d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_89eb3affbb3d88cd904891da40f1a4de7c18679b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2304c1eed4383bf3119f70f19b3512b3257d02d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a731c158d28b3b130de6f231c174e4a23f849570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_d3e891737146d85a03061afd06121a932ccfc5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5b9c15e89b7767a8173c101b8fb7ba777c0b867f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_fb2cc95748db03e29af25f4f31333e4194490c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_901d4de7c7e7851bbb114f914425adca153dcae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3fec056677179c61f2d5d194c761875ea405dd58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/hc/Documents/mine/project/as/progress/ProgressOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2ee9e06ae72961a23780c5565eb59976b546f6b2/classes.dex" />
+    </item>
+
+</items>
